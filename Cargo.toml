@@ -5,5 +5,6 @@ members = [
     "ch03-variables",
     "ch04-ownership",
     "ch05-structs",
+    "ch06-enum-pattern-matching",
 ]
 resolver = "2"
